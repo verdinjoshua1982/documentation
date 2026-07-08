@@ -1601,8 +1601,8 @@
     - title: Version 11.18.0
       shortName: v11
       url: /cli/v11
-      default: true
-      type: latest
+      default: false
+      type: legacy
       children:
         - title: CLI Commands
           shortName: Commands
